@@ -1,0 +1,22 @@
+
+New Commands:
+"LOADIMG _______" Loads a new target image.
+
+LOADIMG ..\..\..\..\VG02.jpg
+SETBUTTON 4; GAP 1; GAP 1
+
+New Features:
+* Added deaper multithrading for subsections of sections;
+
+* Fixed a few bugs;
+
+* Load a new image into targetbitmap
+	which automatically adjust the target & generated widows widths and heights
+
+* Added a browse button so the user could load a new image through UI
+
+* Added Elipse timer
+
+* Multithreaded MainMenu to allow output to the window will processing
+
+* Multithread the whole process UI is now responsive

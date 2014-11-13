@@ -1,0 +1,17 @@
+C:\Users\Operator\Desktop\Summer 2014\Graphical Application Develop\Assignments\Final Project\Submission\WpfTransducerWithEvolutionaryArt 140712m\WpfTransducer\bin\x64\Debug\WpfTransducer.exe.config
+C:\Users\Operator\Desktop\Summer 2014\Graphical Application Develop\Assignments\Final Project\Submission\WpfTransducerWithEvolutionaryArt 140712m\WpfTransducer\bin\x64\Debug\WpfTransducer.exe
+C:\Users\Operator\Desktop\Summer 2014\Graphical Application Develop\Assignments\Final Project\Submission\WpfTransducerWithEvolutionaryArt 140712m\WpfTransducer\bin\x64\Debug\WpfTransducer.pdb
+C:\Users\Operator\Desktop\Summer 2014\Graphical Application Develop\Assignments\Final Project\Submission\WpfTransducerWithEvolutionaryArt 140712m\WpfTransducer\obj\x64\Debug\WpfTransducer.csprojResolveAssemblyReference.cache
+C:\Users\Operator\Desktop\Summer 2014\Graphical Application Develop\Assignments\Final Project\Submission\WpfTransducerWithEvolutionaryArt 140712m\WpfTransducer\obj\x64\Debug\ControlWindow.baml
+C:\Users\Operator\Desktop\Summer 2014\Graphical Application Develop\Assignments\Final Project\Submission\WpfTransducerWithEvolutionaryArt 140712m\WpfTransducer\obj\x64\Debug\MainWindow.baml
+C:\Users\Operator\Desktop\Summer 2014\Graphical Application Develop\Assignments\Final Project\Submission\WpfTransducerWithEvolutionaryArt 140712m\WpfTransducer\obj\x64\Debug\TargetWindow.baml
+C:\Users\Operator\Desktop\Summer 2014\Graphical Application Develop\Assignments\Final Project\Submission\WpfTransducerWithEvolutionaryArt 140712m\WpfTransducer\obj\x64\Debug\ControlWindow.g.cs
+C:\Users\Operator\Desktop\Summer 2014\Graphical Application Develop\Assignments\Final Project\Submission\WpfTransducerWithEvolutionaryArt 140712m\WpfTransducer\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Operator\Desktop\Summer 2014\Graphical Application Develop\Assignments\Final Project\Submission\WpfTransducerWithEvolutionaryArt 140712m\WpfTransducer\obj\x64\Debug\TargetWindow.g.cs
+C:\Users\Operator\Desktop\Summer 2014\Graphical Application Develop\Assignments\Final Project\Submission\WpfTransducerWithEvolutionaryArt 140712m\WpfTransducer\obj\x64\Debug\App.g.cs
+C:\Users\Operator\Desktop\Summer 2014\Graphical Application Develop\Assignments\Final Project\Submission\WpfTransducerWithEvolutionaryArt 140712m\WpfTransducer\obj\x64\Debug\WpfTransducer_MarkupCompile.cache
+C:\Users\Operator\Desktop\Summer 2014\Graphical Application Develop\Assignments\Final Project\Submission\WpfTransducerWithEvolutionaryArt 140712m\WpfTransducer\obj\x64\Debug\WpfTransducer.g.resources
+C:\Users\Operator\Desktop\Summer 2014\Graphical Application Develop\Assignments\Final Project\Submission\WpfTransducerWithEvolutionaryArt 140712m\WpfTransducer\obj\x64\Debug\WpfTransducer.Properties.Resources.resources
+C:\Users\Operator\Desktop\Summer 2014\Graphical Application Develop\Assignments\Final Project\Submission\WpfTransducerWithEvolutionaryArt 140712m\WpfTransducer\obj\x64\Debug\WpfTransducer.csproj.GenerateResource.Cache
+C:\Users\Operator\Desktop\Summer 2014\Graphical Application Develop\Assignments\Final Project\Submission\WpfTransducerWithEvolutionaryArt 140712m\WpfTransducer\obj\x64\Debug\WpfTransducer.exe
+C:\Users\Operator\Desktop\Summer 2014\Graphical Application Develop\Assignments\Final Project\Submission\WpfTransducerWithEvolutionaryArt 140712m\WpfTransducer\obj\x64\Debug\WpfTransducer.pdb
